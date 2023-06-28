@@ -1,5 +1,5 @@
 package com.dailycodelearner.generics;
 
-public class CupCake {
-
+public class OrangeJuice extends Juice{
+	
 }
